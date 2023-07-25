@@ -1,5 +1,4 @@
-P1-P4, P6, P7, P9-P11
-
+P1-P4
 
 ---
 
@@ -155,4 +154,149 @@ Model中的Sigmoid或ReLU称为Neuron（神经元） ，多个神经元连起来
 深度学习的层数也不能太多，太多会导致Overfitting（过拟合），也就是在训练集上表现的好，但是在测试集上表现差。
 
 ---
-## Pytorch Tutorial
+### PytorchTutorial
+
+
+*PyTorch: 一个python下的机器学习框架*
+
+![image-20230722105455624](imagePT/image-20230722105455624.png)
+
+*Training Natural Networks*
+
+![image-20230722105745082](imagePT/image-20230722105745082.png)
+
+*Training & Testing Neural Networks*
+
+![image-20230722105843275](imagePT/image-20230722105843275.png)
+
+Dataset & Data loader
+
+![image-20230722105912557](imagePT/image-20230722105912557.png)
+
+ ![image-20230722110142078](imagePT/image-20230722110142078.png)
+
+![image-20230722110451274](imagePT/image-20230722110451274.png)
+
+Tensors 高纬度的证例
+
+![image-20230722110555859](imagePT/image-20230722110555859.png)
+
+Tensors-Shape of Tensors
+
+![image-20230722110624971](imagePT/image-20230722110624971.png)
+
+Tensors-Creating Tensors
+
+![image-20230722110730048](imagePT/image-20230722110730048.png)
+
+Tensors-Common Operations
+
+![image-20230722110755707](imagePT/image-20230722110755707.png)
+
+![image-20230722110817951](imagePT/image-20230722110817951.png)
+
+![image-20230722110835557](imagePT/image-20230722110835557.png)
+
+![image-20230722110856955](imagePT/image-20230722110856955.png)
+
+![image-20230722110946095](imagePT/image-20230722110946095.png)
+
+Tensors- Data Type
+
+![image-20230722111029535](imagePT/image-20230722111029535.png)
+
+ Tensors-PyTorch vs NumPy
+
+![image-20230722111154970](imagePT/image-20230722111154970.png)
+
+![image-20230722111201385](imagePT/image-20230722111201385.png)
+
+Tensors-Device
+
+![image-20230722111226623](imagePT/image-20230722111226623.png)
+
+![image-20230722111340404](imagePT/image-20230722111340404.png)
+
+Tensors-Gradient Calculation
+
+![image-20230722111451057](imagePT/image-20230722111451057.png)
+
+Training & Testing Neural Networks - in PyTorch
+
+![image-20230722111750164](imagePT/image-20230722111750164.png)
+
+![image-20230722111916544](imagePT/image-20230722111916544.png)
+
+![image-20230722111923120](imagePT/image-20230722111923120.png)
+
+![image-20230722112006146](imagePT/image-20230722112006146.png)
+
+![image-20230722112112777](imagePT/image-20230722112112777.png)
+
+![image-20230722112159601](imagePT/image-20230722112159601.png)
+
+![image-20230722112221373](imagePT/image-20230722112221373.png)
+
+![image-20230722112504679](imagePT/image-20230722112504679.png)
+
+![image-20230722112630492](imagePT/image-20230722112630492.png)
+
+![image-20230722112640903](imagePT/image-20230722112640903.png)
+
+![image-20230722112717516](imagePT/image-20230722112717516.png)
+
+![image-20230722112742282](imagePT/image-20230722112742282.png)
+
+![image-20230722112819207](imagePT/image-20230722112819207.png)
+
+![image-20230722112901147](imagePT/image-20230722112901147.png)
+
+![image-20230722112923545](imagePT/image-20230722112923545.png)
+
+![image-20230722112951931](imagePT/image-20230722112951931.png)
+
+![image-20230722113116080](imagePT/image-20230722113116080.png)
+
+![image-20230722113207607](imagePT/image-20230722113207607.png)
+
+![image-20230722113238265](imagePT/image-20230722113238265.png)
+
+![image-20230722113356619](imagePT/image-20230722113356619.png)
+
+### Machine Learning PyTorchTutorial 2 --- Example of Using PyTorch
+
+![image-20230722113740267](imagePT/image-20230722113740267.png)
+
+![image-20230722113943114](imagePT/image-20230722113943114.png)
+
+![image-20230722114028528](imagePT/image-20230722114028528.png)
+
+![image-20230722114148441](imagePT/image-20230722114148441.png)
+
+![image-20230722114245726](imagePT/image-20230722114245726.png)
+
+![image-20230722114343013](imagePT/image-20230722114343013.png)
+
+![image-20230722114913966](imagePT/image-20230722114913966.png)
+
+![image-20230722115003057](imagePT/image-20230722115003057.png)
+
+![image-20230722115044246](imagePT/image-20230722115044246.png)
+
+![image-20230722115107430](imagePT/image-20230722115107430.png)
+
+![image-20230722115112828](imagePT/image-20230722115112828.png)
+
+![image-20230722115809963](imagePT/image-20230722115809963.png)
+
+![image-20230722115828503](imagePT/image-20230722115828503.png)
+
+![image-20230722115926499](imagePT/image-20230722115926499.png)
+
+![image-20230722115935566](imagePT/image-20230722115935566.png)
+
+![image-20230722115951252](imagePT/image-20230722115951252.png)
+
+![image-20230722120003462](imagePT/image-20230722120003462.png)
+
+---
