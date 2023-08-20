@@ -82,7 +82,7 @@ If loss on **training data** is large, the problem maybe is:
 
 ##### An extreme example:
 
-<!--testing data in training data-->![image-20230724022447959](机器学习任务攻略.assets/image-20230724022447959.png)
+![image-20230724022447959](image2/image-20230724022447959.png)
 
 ##### 一般情况下也可能发生类似的事情: 
 
